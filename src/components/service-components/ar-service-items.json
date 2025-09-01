@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_service_components_ar_service_items",
+  "info": {
+    "displayName": "ar_serviceItems"
+  },
+  "options": {},
+  "attributes": {
+    "ar_item": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

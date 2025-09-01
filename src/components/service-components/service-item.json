@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_service_components_service_items",
+  "info": {
+    "displayName": "ServiceItem"
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

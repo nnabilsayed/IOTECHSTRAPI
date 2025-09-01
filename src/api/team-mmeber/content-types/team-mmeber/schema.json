@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "team_mmebers",
+  "info": {
+    "singularName": "team-mmeber",
+    "pluralName": "team-mmebers",
+    "displayName": "TeamMmeber"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
